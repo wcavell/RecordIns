@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecordIns", "RecordIns\RecordIns.csproj", "{79FE5152-F51E-4572-9FAC-B1FEFE14335D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CoreAudio", "CoreAudio\CoreAudio.vcxproj", "{0F9BA0FA-28C7-46E3-B828-59720EEC8B65}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,16 @@ Global
 		{79FE5152-F51E-4572-9FAC-B1FEFE14335D}.Release|x86.ActiveCfg = Release|x86
 		{79FE5152-F51E-4572-9FAC-B1FEFE14335D}.Release|x86.Build.0 = Release|x86
 		{79FE5152-F51E-4572-9FAC-B1FEFE14335D}.Release|x86.Deploy.0 = Release|x86
+		{0F9BA0FA-28C7-46E3-B828-59720EEC8B65}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{0F9BA0FA-28C7-46E3-B828-59720EEC8B65}.Debug|ARM.ActiveCfg = Debug|ARM
+		{0F9BA0FA-28C7-46E3-B828-59720EEC8B65}.Debug|ARM.Build.0 = Debug|ARM
+		{0F9BA0FA-28C7-46E3-B828-59720EEC8B65}.Debug|x86.ActiveCfg = Debug|Win32
+		{0F9BA0FA-28C7-46E3-B828-59720EEC8B65}.Debug|x86.Build.0 = Debug|Win32
+		{0F9BA0FA-28C7-46E3-B828-59720EEC8B65}.Release|Any CPU.ActiveCfg = Release|Win32
+		{0F9BA0FA-28C7-46E3-B828-59720EEC8B65}.Release|ARM.ActiveCfg = Release|ARM
+		{0F9BA0FA-28C7-46E3-B828-59720EEC8B65}.Release|ARM.Build.0 = Release|ARM
+		{0F9BA0FA-28C7-46E3-B828-59720EEC8B65}.Release|x86.ActiveCfg = Release|Win32
+		{0F9BA0FA-28C7-46E3-B828-59720EEC8B65}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
